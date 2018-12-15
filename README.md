@@ -1,4 +1,4 @@
-[html preview](http://htmlpreview.github.io/?https://github.com/nazariyb/FakingCoinFlips/blob/master/faking_flips_simulations.html)
+[html preview](http://htmlpreview.github.io/?https://github.com/nazariyb/FakingCoinFlips/blob/master/faking_flips.html)
 
 # Faking Coin Flips
 Lear how to distinguish fakeing random flips from real ones.  
